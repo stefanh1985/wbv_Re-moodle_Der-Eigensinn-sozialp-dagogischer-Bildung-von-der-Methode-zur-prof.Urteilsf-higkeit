@@ -1,0 +1,666 @@
+````markdown
+<!--
+author: Stefan Hierholzer
+email:
+version: 1.1
+language: de
+narrator: German Male
+
+comment: Selbstlernkurs nach Abschnitt 6.1 „Der Eigensinn der Sozialdidaktik“.
+         Thema: Der Eigensinn sozialpädagogischer Bildung – von der Methode zur professionellen Urteilsfähigkeit.
+         Zielgruppe: Lehrkräfte, Fort- und Weiterbildner:innen, Referendar:innen und Lehramtsstudierende.
+         DQR Niveau 6.
+         Version 1.1 mit Bildbeschreibungen für alle Module.
+
+logo:
+
+link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap
+-->
+
+# Der Eigensinn sozialpädagogischer Bildung
+
+## Von der Methode zur professionellen Urteilsfähigkeit
+
+> **Selbstlernkurs nach Abschnitt 6.1: „Der Eigensinn der Sozialdidaktik“**  
+> Für Lehrkräfte, Fort- und Weiterbildner:innen, Referendar:innen und Lehramtsstudierende
+
+---
+
+## 📋 Kursübersicht
+
+| Angabe | Information |
+|--------|-------------|
+| **Anknüpfungspunkt** | Nach Abschnitt 6.1 „Der Eigensinn der Sozialdidaktik“ |
+| **Zielgruppe** | Lehrkräfte, Fort- und Weiterbildner:innen, Referendar:innen, Lehramtsstudierende |
+| **Zeitaufwand** | ca. 60–75 Minuten |
+| **Niveau** | DQR Stufe 6 |
+| **Format** | Selbstlernkurs mit Fallarbeit, Theorieimpulsen, Analyseaufgaben und Reflexion |
+| **Benötigtes Material** | Notizen aus dem Buchkapitel, Schreibmöglichkeit, optional eigener Unterrichts- oder Praxiserfahrungsfall |
+| **Zentrales Produkt** | Eine rekonstruierte pädagogische Situation mit professioneller Irritationsreflexion |
+
+---
+
+## 🎯 Kompetenzorientierte Lernziele auf DQR-6-Niveau
+
+Nach Abschluss dieses Selbstlernkurses können Sie:
+
+**Wissen und Verstehen**
+
+1. den Eigensinn sozialpädagogischer Bildung fachlich erläutern,
+2. begründen, warum sozialpädagogisches Handeln nicht vollständig standardisierbar ist,
+3. Beziehung, Unsicherheit, Deutungsmuster, Ambiguitätstoleranz, Machtverhältnisse und professionelle Subjektentwicklung als Kernfragen sozialdidaktischer Arbeit einordnen.
+
+**Instrumentale und systemische Kompetenzen**
+
+4. eine pädagogische Situation differenziert rekonstruieren,
+5. subjektive Anteile, theoretische Perspektiven und institutionelle Bedingungen in einer Situation identifizieren,
+6. zwischen methodischer Planbarkeit und professioneller Urteilsfähigkeit unterscheiden.
+
+**Kommunikative und reflexive Kompetenzen**
+
+7. eigene Deutungsmuster kritisch befragen,
+8. Ambivalenzen pädagogischer Situationen fachlich begründet beschreiben,
+9. eine irritierte professionelle Annahme formulieren und daraus einen nächsten Entwicklungsschritt ableiten.
+
+---
+
+## ⏱️ Zeitplanung
+
+```ascii
+Modul 0: Einstieg – Warum Methoden nicht reichen                   8 min
+Modul 1: Fallarbeit – Eine pädagogische Situation lesen            15 min
+Modul 2: Theorieimpuls – Der Eigensinn sozialpädagogischer Bildung 15 min
+Modul 3: Analyse – Subjekt, Theorie, Institution                   20 min
+Modul 4: Reflexion – Professionelle Annahmen irritieren            15 min
+Abschluss: Transfer in Lehre, Fortbildung und Studium              7 min
+──────────────────────────────────────────────────────────────────────
+Gesamt:                                                   ca. 60–75 min
+````
+
+---
+
+# Modul 0: Einstieg – Warum Methoden nicht reichen
+
+![Illustration Modul 0: Eine Lehrkraft steht vor einem sorgfältig geplanten Methodenplan. Daneben ist eine pädagogische Situation mit offenen Fragen sichtbar: Beziehung, Unsicherheit, Macht, Institution und Verantwortung. Der Kontrast zeigt, dass Methoden Struktur geben, aber professionelle Urteilsfähigkeit nicht ersetzen. Comic-Stil, ruhig, klar und professionell.](Modul0.png "Modul 0 – Warum Methoden nicht reichen")
+
+## 0.1 Ausgangspunkt
+
+Sozialpädagogische Bildung lässt sich nicht auf Methoden, Materialien oder Ablaufschemata reduzieren. Methoden können hilfreich sein. Sie schaffen Struktur, eröffnen Zugänge und sichern Arbeitsprozesse. Sie lösen aber nicht das Grundproblem sozialpädagogischen Handelns.
+
+In sozialpädagogischen Situationen begegnen Fachkräfte Menschen, deren Verhalten nicht vollständig vorhersagbar ist. Kinder, Jugendliche, Familien, Gruppen und Teams handeln nicht nach didaktischen Ablaufplänen. Sie bringen Erfahrungen, Bedürfnisse, Verletzlichkeiten, Widerstände, Ressourcen und eigene Deutungen mit.
+
+Deshalb entsteht sozialpädagogische Professionalität nicht allein dadurch, dass jemand eine Methode korrekt anwendet. Sie entsteht dort, wo Personen Situationen deuten, Unsicherheit aushalten, Machtverhältnisse reflektieren und fachlich begründete Entscheidungen treffen.
+
+> **📝 Merke**
+>
+> Der Eigensinn sozialpädagogischer Bildung liegt darin, dass sie nicht nur Können, Wissen oder Methoden trainiert. Sie zielt auf professionelle Urteilsfähigkeit in offenen, widersprüchlichen und beziehungsabhängigen Situationen.
+
+---
+
+## 0.2 Erste Irritation
+
+Lesen Sie die folgende Aussage:
+
+> „Wenn die Methode gut geplant ist, gelingt auch die pädagogische Situation.“
+
+Diese Aussage klingt zunächst plausibel. Sie ist aber sozialpädagogisch zu kurz. Eine Methode kann sorgfältig vorbereitet sein und dennoch in einer konkreten Situation scheitern, weil Beziehung, Macht, biografische Erfahrungen, institutionelle Regeln oder unausgesprochene Konflikte anders wirken als erwartet.
+
+---
+
+## 0.3 Reflexionsfrage
+
+> **💭 Reflexionsfrage 0.1**
+>
+> Denken Sie an eine pädagogische Situation, in der eine gut geplante Methode nicht die erwartete Wirkung hatte.
+> Notieren Sie kurz:
+>
+> 1. Was war geplant?
+> 2. Was geschah tatsächlich?
+> 3. Welche Erklärung lag zunächst nahe?
+> 4. Welche tieferliegende Frage wurde dadurch sichtbar?
+
+---
+
+## ✅ Selbstüberprüfung Modul 0
+
+Welche Aussage trifft den Kern dieses Kurses am genauesten?
+
+* [( )] Sozialpädagogische Bildung gelingt vor allem durch möglichst präzise Methodenpläne.
+* [( )] Methoden sind im sozialpädagogischen Unterricht unwichtig.
+* [(X)] Methoden sind hilfreich, reichen aber nicht aus, weil sozialpädagogische Situationen durch Beziehung, Deutung, Unsicherheit, Macht und Verantwortung geprägt sind.
+* [( )] Professionelle Urteilsfähigkeit entsteht automatisch durch Praxiserfahrung.
+
+---
+
+# Modul 1: Fallarbeit – Eine pädagogische Situation lesen
+
+![Illustration Modul 1: Eine Fachschulklasse arbeitet an einer Fallanalyse. Eine Kleingruppe diskutiert, während ein Studierender zurückgelehnt sitzt, auf sein Handy schaut und den Sinn der Aufgabe infrage stellt. Die Lehrkraft beobachtet die Situation aufmerksam und hält mehrere mögliche Reaktionen auf Karten fest. Comic-Stil, sachlich, leicht zugespitzt und reflexionsorientiert.](Modul1.png "Modul 1 – Eine pädagogische Situation lesen")
+
+## 1.1 Fallvignette: „Er macht einfach nicht mit“
+
+In einer Fachschulklasse wird eine Unterrichtseinheit zum Thema „Pädagogische Beziehungsgestaltung“ durchgeführt. Die Lehrkraft hat eine Gruppenarbeit vorbereitet. Die Studierenden sollen eine kurze Fallbeschreibung aus einer Kita analysieren und anschließend in Kleingruppen eine pädagogische Reaktion begründen.
+
+Während der Arbeitsphase beteiligt sich ein Studierender, nennen wir ihn Milan, kaum. Er sitzt zurückgelehnt, schaut immer wieder auf sein Handy und sagt schließlich:
+
+> „Ganz ehrlich, solche Fälle kann man doch nicht in Gruppenarbeit lösen. In der Praxis macht sowieso jede Einrichtung ihr eigenes Ding.“
+
+Die Lehrkraft reagiert irritiert. Sie hatte die Methode bewusst gewählt, damit Perspektivwechsel entstehen. Einige Studierende wirken genervt. Eine Kommilitonin sagt:
+
+> „Dann mach halt nicht mit. Wir müssen das ja irgendwie fertigkriegen.“
+
+Die Lehrkraft überlegt, ob sie Milan direkt zur Mitarbeit auffordern, die Gruppe neu zusammensetzen oder die Situation zunächst laufen lassen soll.
+
+---
+
+## 1.2 Erste Deutung
+
+Spontan könnte man sagen:
+
+* Milan verweigert die Mitarbeit.
+* Die Methode passt nicht zur Gruppe.
+* Die Lehrkraft muss klarer steuern.
+* Die Aufgabe war nicht motivierend genug.
+* Die Gruppe braucht verbindlichere Arbeitsregeln.
+
+Alle diese Deutungen können etwas treffen. Sozialdidaktisch interessant wird der Fall aber erst, wenn wir nicht zu schnell entscheiden.
+
+> **📝 Merke**
+>
+> Professionelle Urteilsfähigkeit beginnt nicht mit der schnellen Lösung, sondern mit einer sorgfältigen Rekonstruktion der Situation.
+
+---
+
+## 1.3 Analyseauftrag: Was sehen Sie?
+
+Bearbeiten Sie die Fallvignette zunächst ohne Theoriebegriffe. Beschreiben Sie nur, was sichtbar wird.
+
+| Beobachtungsebene                                    | Ihre Notizen |
+| ---------------------------------------------------- | ------------ |
+| Was tut Milan sichtbar?                              |              |
+| Was sagt Milan wörtlich?                             |              |
+| Wie reagiert die Gruppe?                             |              |
+| Wie reagiert die Lehrkraft innerlich oder äußerlich? |              |
+| Welche Situation entsteht im Raum?                   |              |
+| Welche Entscheidung steht an?                        |              |
+
+---
+
+## 1.4 Multiple-Choice-Frage
+
+Welche Deutung wäre in dieser frühen Analysephase problematisch?
+
+* [( )] „Milan beteiligt sich aktuell nicht sichtbar an der Gruppenarbeit.“
+* [( )] „Seine Aussage stellt den Sinn der Aufgabe infrage.“
+* [(X)] „Milan ist unmotiviert und muss stärker kontrolliert werden.“
+* [( )] „Die Lehrkraft steht vor einer Entscheidung, wie sie mit der Situation weiterarbeitet.“
+
+---
+
+## 1.5 Zwischenreflexion
+
+> **💭 Reflexionsfrage 1.1**
+>
+> Welche Deutung lag Ihnen beim ersten Lesen des Falls besonders nahe?
+> Schreiben Sie einen Satz:
+>
+> „Meine erste Deutung war ..., weil ...“
+
+---
+
+# Modul 2: Theorieimpuls – Der Eigensinn sozialpädagogischer Bildung
+
+![Illustration Modul 2: Ein Team steht vor einer großen Tafel mit den Begriffen Beziehung, Unsicherheit, Deutungsmuster, Ambiguitätstoleranz, Machtverhältnisse und professionelle Subjektentwicklung. In der Mitte liegt ein Methodenplan, der durch Pfeile mit offenen pädagogischen Situationen verbunden ist. Die Darstellung zeigt den Übergang vom Methodendenken zur professionellen Urteilsfähigkeit. Comic-Stil, klar, theoriebezogen und praxisnah.](Modul2.png "Modul 2 – Der Eigensinn sozialpädagogischer Bildung")
+
+## 2.1 Was heißt „Eigensinn“?
+
+Der Begriff Eigensinn verweist darauf, dass sozialpädagogische Bildung einer eigenen Logik folgt. Sie ist nicht einfach eine Anwendung allgemeiner Didaktik auf ein soziales Berufsfeld. Sie steht vor besonderen Anforderungen:
+
+* Sozialpädagogisches Handeln ist beziehungsgebunden.
+* Situationen sind offen und nicht vollständig kontrollierbar.
+* Fachkräfte handeln unter Unsicherheit.
+* Deutungen sind perspektivabhängig.
+* Institutionelle Regeln wirken immer mit.
+* Pädagogische Entscheidungen berühren Macht, Verantwortung und Teilhabe.
+* Professionalisierung betrifft nicht nur Wissen, sondern auch die Person, Haltung und Reflexionsfähigkeit.
+
+Der Eigensinn besteht also nicht darin, dass sozialpädagogische Bildung besonders „weich“ oder „praktisch“ wäre. Er besteht darin, dass sie mit Situationen arbeitet, in denen fachliches Wissen, subjektive Deutung, institutionelle Ordnung und Beziehung gleichzeitig wirksam sind.
+
+---
+
+## 2.2 Vom Methodendenken zur Urteilsfähigkeit
+
+Eine methodische Frage lautet:
+
+> „Welche Methode passt zu diesem Thema?“
+
+Eine sozialdidaktische Frage lautet:
+
+> „Welche Situation sollen Lernende fachlich deuten, welche Unsicherheit müssen sie bearbeiten und welche professionelle Entscheidung soll dadurch begründbar werden?“
+
+Das ist ein entscheidender Unterschied.
+
+| Methodische Perspektive                   | Sozialdidaktische Perspektive                              |
+| ----------------------------------------- | ---------------------------------------------------------- |
+| Welche Methode aktiviert die Gruppe?      | Welche fachliche Irritation trägt den Lernprozess?         |
+| Welche Aufgabe lässt sich gut bearbeiten? | Welche berufliche Entscheidung wird vorbereitet?           |
+| Wie strukturiere ich den Ablauf?          | Welche Deutungsmuster werden sichtbar und bearbeitbar?     |
+| Wie sichere ich Ergebnisse?               | Wie entsteht begründete professionelle Urteilsfähigkeit?   |
+| Wie bleibt die Gruppe arbeitsfähig?       | Wie werden Beziehung, Macht und Verantwortung reflektiert? |
+
+---
+
+## 2.3 Ambiguitätstoleranz
+
+Ambiguitätstoleranz meint die Fähigkeit, Mehrdeutigkeit, Unsicherheit und Widersprüche auszuhalten, ohne vorschnell zu vereinfachen. In sozialpädagogischen Situationen ist diese Fähigkeit zentral.
+
+Im Fall Milan könnten gleichzeitig mehrere Aspekte zutreffen:
+
+* Er verweigert sich teilweise.
+* Er formuliert eine fachlich relevante Kritik.
+* Er schützt sich möglicherweise vor Bloßstellung.
+* Er hat Praxiserfahrungen, die er nicht geordnet einbringen kann.
+* Die Gruppe erlebt ihn als störend.
+* Die Lehrkraft fühlt sich in ihrer Planung infrage gestellt.
+* Die institutionelle Erwartung lautet dennoch: Beteiligung ist erforderlich.
+
+Professionelle Urteilsfähigkeit besteht darin, diese Mehrdeutigkeit nicht zu übergehen.
+
+---
+
+## 2.4 Machtverhältnisse
+
+Pädagogische Situationen sind nie machtfrei. Lehrkräfte bewerten, strukturieren, sprechen zu, unterbrechen, geben Aufgaben, setzen Fristen und definieren Anforderungen. Auch Gruppen üben Macht aus, etwa durch Zustimmung, Ausschluss, Ironie oder Leistungsdruck.
+
+Im Fall Milan wirken mindestens vier Machtachsen:
+
+1. Lehrkraft und Studierender,
+2. Gruppe und einzelnes Gruppenmitglied,
+3. institutionelle Leistungsanforderung und subjektive Beteiligungsbereitschaft,
+4. Praxiserfahrung und schulische Theoriearbeit.
+
+Wer diese Machtverhältnisse ignoriert, deutet den Fall zu einfach.
+
+---
+
+## 2.5 Professionelle Subjektentwicklung
+
+Sozialpädagogische Bildung betrifft die Person. Das heißt nicht, dass Unterricht therapeutisch wird. Es heißt: Lernende entwickeln ein professionelles Selbstverhältnis. Sie müssen eigene Erfahrungen, Vorannahmen, Abwehrreaktionen, Wertungen und Deutungsmuster erkennen können.
+
+Auch Lehrkräfte sind Teil dieser Dynamik. Die Frage lautet nicht nur:
+
+> „Was ist mit Milan los?“
+
+Sondern auch:
+
+> „Was löst Milan in mir aus, und wie beeinflusst das meine pädagogische Entscheidung?“
+
+---
+
+## 2.6 Wahr oder falsch?
+
+Bewerten Sie die Aussagen.
+
+* [(X)] Sozialpädagogische Situationen sind häufig mehrdeutig und können nicht vollständig über Methodenpläne gesteuert werden.
+* [( )] Professionelle Urteilsfähigkeit bedeutet, möglichst schnell eine eindeutige Lösung zu finden.
+* [(X)] Machtverhältnisse wirken auch dann, wenn die Beteiligten freundlich und wertschätzend miteinander sprechen.
+* [(X)] Subjektentwicklung meint, dass Lernende eigene Deutungsmuster fachlich reflektieren lernen.
+* [( )] Ambiguitätstoleranz bedeutet, Entscheidungen dauerhaft zu vermeiden.
+
+---
+
+# Modul 3: Analyse – Subjekt, Theorie, Institution
+
+![Illustration Modul 3: Drei Analyseebenen werden als verbundenes Arbeitsboard dargestellt: subjektive Anteile, theoretische Perspektiven und institutionelle Bedingungen. Eine Lehrkraft, eine Fortbildnerin und Studierende rekonstruieren gemeinsam den Fall Milan. Karten zeigen Beobachtungen, mögliche Deutungen, Machtachsen und Entscheidungsszenarien. Comic-Stil, strukturiert, professionell und analytisch.](Modul3.png "Modul 3 – Subjekt, Theorie und Institution analysieren")
+
+## 3.1 Rekonstruktionsraster
+
+Nutzen Sie das folgende Raster für die Fallvignette. Es arbeitet mit drei Ebenen:
+
+1. subjektive Anteile,
+2. theoretische Perspektiven,
+3. institutionelle Bedingungen.
+
+Diese Ebenen sind nicht getrennt. Sie wirken gleichzeitig.
+
+| Analyseebene                    | Leitfrage                                                                                                     | Anwendung auf den Fall |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| **Subjektive Anteile**          | Welche Erfahrungen, Emotionen, Deutungsmuster oder Schutzbewegungen könnten bei den Beteiligten wirksam sein? |                        |
+| **Theoretische Perspektiven**   | Welche fachlichen Begriffe oder Modelle helfen, die Situation nicht vorschnell zu bewerten?                   |                        |
+| **Institutionelle Bedingungen** | Welche Regeln, Rollen, Anforderungen, Bewertungslogiken oder Erwartungen prägen die Situation?                |                        |
+| **Beziehungsdynamik**           | Wie verändert Milans Verhalten die Beziehung zwischen Lehrkraft, Gruppe und ihm selbst?                       |                        |
+| **Machtverhältnisse**           | Wer kann hier was entscheiden, bewerten, sichtbar machen oder sanktionieren?                                  |                        |
+| **Professionelle Entscheidung** | Welche Handlung wäre fachlich begründbar, ohne die Situation zu vereinfachen?                                 |                        |
+
+---
+
+## 3.2 Theorieanker für die Fallanalyse
+
+Sie können die Situation aus unterschiedlichen theoretischen Perspektiven lesen. Keine Perspektive erklärt alles. Jede Perspektive macht bestimmte Aspekte sichtbar und andere weniger sichtbar.
+
+| Theorieanker                            | Was wird sichtbar?                                                                                    | Risiko einer Verkürzung                                             |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Professionelle Beziehungsgestaltung** | Milan stellt nicht nur eine Aufgabe infrage, sondern auch die Beziehung zur Lehrkraft und zur Gruppe. | Der Konflikt wird nur als Beziehungsproblem gelesen.                |
+| **Deutungsmusteranalyse**               | Milan bringt eine Vorstellung von Praxis ein: „In Einrichtungen läuft es sowieso unterschiedlich.“    | Seine Aussage wird vorschnell als Widerstand abgewertet.            |
+| **Ambiguitätstoleranz**                 | Die Situation bleibt mehrdeutig und verlangt ein Aushalten von Unsicherheit.                          | Die Lehrkraft wartet zu lange und verliert Struktur.                |
+| **Machtkritische Perspektive**          | Beteiligung, Bewertung und Gruppendruck erzeugen Machtwirkungen.                                      | Jede Steuerung wird als problematisch gelesen.                      |
+| **Subjektorientierung**                 | Milans Erfahrung, Unsicherheit oder Abwehr wird als Teil des Lernprozesses betrachtet.                | Die Anforderung an fachliche Beteiligung wird zu stark relativiert. |
+| **Institutionelle Perspektive**         | Unterricht, Bewertung, Zeitdruck und Curriculumanforderungen strukturieren die Situation.             | Die Person verschwindet hinter Regeln und Abläufen.                 |
+
+---
+
+## 3.3 Entscheidungsszenarien
+
+Die Lehrkraft hat mehrere Handlungsmöglichkeiten. Keine ist automatisch richtig. Entscheidend ist die Begründung.
+
+| Möglichkeit                           | Chance                                              | Risiko                                               |
+| ------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| Milan direkt zur Mitarbeit auffordern | Klare Erwartung, Schutz der Gruppenarbeitsfähigkeit | Beschämung, Eskalation, Verengung auf Disziplin      |
+| Milans Aussage fachlich aufnehmen     | Seine Kritik wird als Deutung sichtbar              | Gruppe könnte dies als Belohnung für Störung erleben |
+| Kurze Unterbrechung mit Metareflexion | Situation wird für alle lernrelevant                | Methode wird unterbrochen, Zeitdruck steigt          |
+| Einzelgespräch nach der Arbeitsphase  | Beziehungsschutz, differenzierte Klärung            | Die Gruppe bleibt mit Irritation allein              |
+| Gruppe selbst weiterarbeiten lassen   | Selbstorganisation bleibt erhalten                  | Ausschlussdynamik kann sich verstärken               |
+
+---
+
+## 3.4 Drag-the-Words: Professionelle Urteilsfähigkeit
+
+Ergänzen Sie den Text.
+
+Professionelle Urteilsfähigkeit entsteht, wenn pädagogische Situationen nicht vorschnell vereindeutigt werden. Sie verbindet subjektive [[Deutungsmuster]], theoretische [[Perspektiven]], institutionelle [[Bedingungen]], reflektierte [[Machtverhältnisse]] und die Fähigkeit, unter [[Unsicherheit]] begründet zu handeln.
+
+---
+
+## 3.5 Analyseauftrag
+
+Formulieren Sie eine fachlich begründete Entscheidung für den Fall Milan.
+
+Nutzen Sie diese Satzstruktur:
+
+```markdown
+Ich würde in der Situation zunächst ...
+
+Meine Begründung lautet:
+1. Auf der subjektiven Ebene ...
+2. Auf der theoretischen Ebene ...
+3. Auf der institutionellen Ebene ...
+4. Mit Blick auf Machtverhältnisse ...
+5. Mit Blick auf professionelle Verantwortung ...
+
+Anschließend würde ich ...
+```
+
+---
+
+# Modul 4: Reflexion – Professionelle Annahmen irritieren
+
+![Illustration Modul 4: Eine Lehrkraft sitzt an einem Tisch mit Reflexionskarten. Auf den Karten stehen typische Annahmen wie „Widerstand ist Störung“, „Gruppenarbeit fördert automatisch Perspektivwechsel“ und „Klare Regeln lösen Beteiligungsprobleme“. Einige Karten sind mit Fragezeichen markiert. Im Hintergrund ist der Fall Milan als kleine Szene sichtbar. Comic-Stil, ruhig, nachdenklich und handlungsorientiert.](Modul4.png "Modul 4 – Professionelle Annahmen irritieren")
+
+## 4.1 Warum Irritation wichtig ist
+
+Sozialdidaktik arbeitet nicht nur mit Wissenserweiterung. Sie arbeitet auch mit Irritation. Eine Irritation entsteht, wenn eine vertraute Annahme nicht mehr trägt.
+
+Beispiele:
+
+* „Wer nicht mitarbeitet, ist unmotiviert.“
+* „Gruppenarbeit fördert automatisch Perspektivwechsel.“
+* „Praxisbezug macht Unterricht immer relevanter.“
+* „Klare Regeln lösen Beteiligungsprobleme.“
+* „Widerstand muss möglichst schnell reduziert werden.“
+* „Theorie überzeugt, wenn sie gut erklärt wird.“
+
+Solche Annahmen sind nicht einfach falsch. Sie sind aber oft zu glatt. Sie verdecken die Mehrdeutigkeit sozialpädagogischer Situationen.
+
+---
+
+## 4.2 Reflexionsauftrag: Welche Annahme wurde irritiert?
+
+Beantworten Sie die folgende Frage schriftlich:
+
+> **Welche eigene professionelle Annahme wurde durch den Fall Milan irritiert?**
+
+Nutzen Sie diese Struktur:
+
+```markdown
+# Reflexion: Irritierte professionelle Annahme
+
+## Meine ursprüngliche Annahme
+Ich bin bisher davon ausgegangen, dass ...
+
+## Irritation durch den Fall
+Der Fall irritiert diese Annahme, weil ...
+
+## Neue fachliche Differenzierung
+Heute würde ich genauer unterscheiden zwischen ...
+
+## Konsequenz für meine Lehre oder Fortbildung
+In künftigen Lernsettings werde ich stärker darauf achten, dass ...
+
+## Offene Frage
+Ungeklärt bleibt für mich ...
+```
+
+---
+
+## 4.3 Selbstcheck: Reife professioneller Reflexion
+
+Welche Aussagen zeigen eine differenzierte professionelle Reflexion?
+
+* [[X]] „Ich merke, dass ich Widerstand häufig zuerst als Störung lese und erst später als mögliche fachliche Irritation.“
+* [[ ]] „Solche Studierenden müssen einfach klarer geführt werden.“
+* [[X]] „Ich muss zwischen Beziehungsschutz, Arbeitsfähigkeit der Gruppe und fachlicher Anforderung genauer unterscheiden.“
+* [[X]] „Meine Methode war nicht falsch, aber sie hat eine Spannung sichtbar gemacht, die ich didaktisch aufnehmen muss.“
+* [[ ]] „Wenn die Regeln von Anfang an klar sind, entstehen solche Situationen nicht.“
+* [[X]] „Die Situation zeigt, dass professionelle Steuerung auch bedeutet, Mehrdeutigkeit kurzzeitig auszuhalten.“
+
+---
+
+## 4.4 Transfer in den eigenen Arbeitskontext
+
+Wählen Sie eine der folgenden Rollenperspektiven.
+
+### Für Lehrkräfte
+
+Welche Situation aus Ihrem Unterricht zeigt, dass eine Methode fachlich sinnvoll geplant war, aber in der konkreten Interaktion anders wirkte als erwartet?
+
+### Für Fort- und Weiterbildner:innen
+
+Wie können Sie in Fortbildungen Räume schaffen, in denen Teilnehmende nicht nur Methoden kennenlernen, sondern eigene Deutungsmuster prüfen?
+
+### Für Referendar:innen
+
+Welche Planungsroutine hilft Ihnen, neben Lernzielen und Methoden auch Unsicherheit, Beziehung und institutionelle Erwartungen mitzudenken?
+
+### Für Lehramtsstudierende
+
+Welche Vorstellung von „gutem Unterricht“ wird durch sozialpädagogische Bildung komplizierter?
+
+---
+
+# Abschluss: Von der Methode zur professionellen Urteilsfähigkeit
+
+![Illustration Abschluss: Eine Lehrkraft sitzt mit einer rekonstruierten pädagogischen Situation, einer Analysekarte und einem Reflexionsbogen am Tisch. Im Hintergrund ist ein Lernraum sichtbar, in dem Beziehung, Unsicherheit, Theorie, Machtverhältnisse und professionelle Verantwortung miteinander verbunden sind. Die Szene zeigt den Transfer vom Fallverstehen zur professionellen Urteilsfähigkeit. Comic-Stil, ruhig, klar und praxisnah.](Abschluss.png "Abschluss – Von der Methode zur professionellen Urteilsfähigkeit")
+
+## Rückblick
+
+Sie haben in diesem Kurs vier Schritte bearbeitet:
+
+1. Sie haben eine pädagogische Situation nicht vorschnell technisch oder methodisch gedeutet.
+2. Sie haben den Eigensinn sozialpädagogischer Bildung als Arbeit an Beziehung, Unsicherheit, Deutung, Macht und Verantwortung verstanden.
+3. Sie haben subjektive Anteile, theoretische Perspektiven und institutionelle Bedingungen rekonstruiert.
+4. Sie haben eine eigene professionelle Annahme irritiert und fachlich neu sortiert.
+
+---
+
+## Abschlussaufgabe: Eine eigene Situation rekonstruieren
+
+Wählen Sie eine reale oder anonymisierte pädagogische Situation aus Unterricht, Praxisbegleitung, Fortbildung oder Studium.
+
+Nutzen Sie die folgende Vorlage.
+
+```markdown
+# Rekonstruktion einer pädagogischen Situation
+
+## 1. Kurze Situationsbeschreibung
+Was ist geschehen? Beschreiben Sie knapp und möglichst beobachtungsnah.
+
+## 2. Erste spontane Deutung
+Wie habe ich die Situation zunächst verstanden?
+
+## 3. Subjektive Anteile
+Welche Erfahrungen, Gefühle, Erwartungen oder Deutungsmuster könnten bei den Beteiligten wirksam gewesen sein?
+
+## 4. Theoretische Perspektiven
+Welche Begriffe, Modelle oder fachlichen Perspektiven helfen, die Situation genauer zu lesen?
+
+## 5. Institutionelle Bedingungen
+Welche Regeln, Rollen, Fristen, Bewertungslogiken oder organisationalen Erwartungen haben die Situation geprägt?
+
+## 6. Machtverhältnisse
+Wer konnte in der Situation was entscheiden, ermöglichen, begrenzen oder bewerten?
+
+## 7. Professionelle Urteilsfähigkeit
+Welche Entscheidung wäre fachlich begründbar und verantwortbar?
+
+## 8. Irritierte Annahme
+Welche eigene professionelle Annahme wurde irritiert?
+
+## 9. Nächster Entwicklungsschritt
+Was verändert sich in meiner Planung, Begleitung oder Reflexion?
+```
+
+---
+
+## ✅ Abschlusstest
+
+### Frage 1
+
+Warum ist sozialpädagogisches Handeln nicht vollständig standardisierbar?
+
+* [( )] Weil pädagogische Fachkräfte keine klaren Methoden brauchen.
+* [(X)] Weil pädagogische Situationen durch Beziehung, Subjektivität, Unsicherheit, Macht, Institution und Verantwortung geprägt sind.
+* [( )] Weil jede Einrichtung völlig unabhängig von fachlichen Standards arbeitet.
+* [( )] Weil Theorie in der Praxis keine Bedeutung hat.
+
+---
+
+### Frage 2
+
+Welche Begriffe gehören zum Kern dieses Kurses?
+
+* [[X]] Beziehung
+* [[X]] Unsicherheit
+* [[X]] Deutungsmuster
+* [[X]] Ambiguitätstoleranz
+* [[X]] Machtverhältnisse
+* [[X]] professionelle Subjektentwicklung
+* [[ ]] Methodenrezept
+* [[ ]] technische Bedienlogik
+
+---
+
+### Frage 3
+
+Ergänzen Sie den Satz.
+
+Der Eigensinn sozialpädagogischer Bildung zeigt sich darin, dass Lernende nicht nur Methoden anwenden, sondern Situationen fachlich [[deuten]], Mehrdeutigkeit [[aushalten]], Machtverhältnisse [[reflektieren]] und professionelle Entscheidungen [[begründen]] lernen.
+
+---
+
+## 📦 Kopiervorlage: Analysekarte „Eigensinn sozialpädagogischer Bildung“
+
+```markdown
+# Analysekarte: Der Eigensinn sozialpädagogischer Bildung
+
+## Fall / Situation
+[Kurze Beschreibung]
+
+## Was irritiert?
+[Welche Erwartung wird gestört?]
+
+## Beziehung
+[Welche Beziehungsdynamik wird sichtbar?]
+
+## Unsicherheit
+[Was ist offen, mehrdeutig oder nicht eindeutig entscheidbar?]
+
+## Deutungsmuster
+[Welche Annahmen über Menschen, Praxis, Lernen oder Professionalität wirken mit?]
+
+## Machtverhältnisse
+[Wer kann was bestimmen, bewerten, ermöglichen oder begrenzen?]
+
+## Institutionelle Bedingungen
+[Welche Regeln, Rollen, Zeiten, Prüfungen oder Strukturen prägen die Situation?]
+
+## Theorieperspektive
+[Welche Begriffe oder Modelle helfen, die Situation differenzierter zu verstehen?]
+
+## Professionelle Entscheidung
+[Welche Handlung ist fachlich begründbar?]
+
+## Irritierte professionelle Annahme
+[Welche eigene Annahme wurde infrage gestellt?]
+
+## Nächster Schritt
+[Was verändert sich in meiner Planung, Begleitung oder Reflexion?]
+```
+
+---
+
+## 🧩 H5P-Idee für das Buch oder den Moodle-Kurs
+
+**H5P-Format:** Branching Scenario oder Column
+
+**Titel:** „Milan macht nicht mit – Störung, Widerstand oder fachliche Irritation?“
+
+**Aufbau:**
+
+1. Einstieg mit kurzer Fallvignette.
+2. Entscheidungspunkt 1: Sofort eingreifen, laufen lassen oder Aussage fachlich aufnehmen?
+3. Rückmeldung zu jeder Entscheidung.
+4. Theorieimpuls zu Ambiguitätstoleranz und Machtverhältnissen.
+5. Entscheidungspunkt 2: Wie wird die Situation nachbereitet?
+6. Abschlussfrage: Welche professionelle Annahme wurde irritiert?
+
+**Didaktischer Zweck:**
+Die Teilnehmenden erleben, dass es nicht die eine richtige Reaktion gibt. Entscheidend ist die Qualität der Begründung.
+
+---
+
+## 📘 Hinweis für einen vertiefenden LiaScript-Kurs
+
+An dieser Stelle wäre ein zusätzlicher Selbstlernkurs sinnvoll:
+
+**„Fallverstehen und professionelle Urteilsfähigkeit in Moodle gestalten“**
+
+Mögliche Inhalte:
+
+* Fallvignetten digital aufbereiten,
+* Theorieanker sichtbar machen,
+* Reflexionsaufgaben differenziert formulieren,
+* Peer-Feedback strukturieren,
+* professionelle Irritation produktiv bearbeiten,
+* Moodle-Forum, Aufgabe und Feedback für Fallarbeit nutzen.
+
+---
+
+## 📚 Weiterführende Quellen und Materialien
+
+* Bobe, A. (2024). Berufsfelddidaktik Sozialpädagogik. Impulse für die Lehrkräftebildung. *Journal für LehrerInnenbildung, 24*(2), 56–65.
+* Karsten, M.-E. (2003). Sozialdidaktik – Zum Eigensinn didaktischer Reflexion in den Berufsausbildungen für soziale und sozialpädagogische (Frauen-)berufe. In A. Schlüter (Hrsg.), *Aktuelles und Querliegendes zur Didaktik und Curriculumentwicklung* (S. 350–374). Janus Presse.
+* Küls, H. (2011). Sozialdidaktik und Lehrplanentwicklung. Niedersächsisches Institut für frühkindliche Bildung und Entwicklung.
+* Müller, B. (2017). *Sozialpädagogisches Können: Ein Lehrbuch zur multiperspektivischen Fallarbeit*. Lambertus.
+* Rabe-Kleberg, U. (1999). Professionalität und Geschlechterverhältnis. Oder: Was ist „semi“ an traditionellen Frauenberufen? In A. Combe & W. Helsper (Hrsg.), *Pädagogische Professionalität* (S. 276–302). Suhrkamp.
+* Thole, W. (2012). Die Soziale Arbeit – Praxis, Theorie, Forschung und Ausbildung. In W. Thole (Hrsg.), *Grundriss Soziale Arbeit* (4. Aufl., S. 19–70). VS Verlag.
+
+---
+
+## Ende des Selbstlernkurses
+
+> **Abschlussgedanke**
+>
+> Sozialdidaktik wird dort praktisch, wo sie Methoden nicht abwertet, aber ihren Anspruch begrenzt. Die zentrale Frage lautet nicht: „Welche Methode passt?“
+> Die präzisere Frage lautet: „Welche professionelle Urteilsfähigkeit wird in dieser Situation erforderlich?“
+
+```
+```
